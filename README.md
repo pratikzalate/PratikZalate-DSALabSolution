@@ -1,7 +1,8 @@
 ## Problem1 solution: Check if paranthesis(brackets) in the string are balanced
 
-e.g. {[()]} , {a+[b*(c-d)/e]} , {{}([])} are balanced strings where as
-{([)]} , {{[()]} , [[]({})]] are unbalanced strings 
+e.g. { [ ( ) ] }  ,  {a+[b*(c-d)/e] }  ,  { { } ( [ ] ) } are balanced strings where as
+
+{ ( [ ) ] }  ,  { { [ ( ) ] }  ,  [ [ ] ( { } ) ] ]  are unbalanced strings 
 
 ## Getting Started
 
