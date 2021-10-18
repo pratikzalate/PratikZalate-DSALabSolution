@@ -1,3 +1,8 @@
+## Problem1 solution: Check if paranthesis(brackets) in the string are balanced
+
+e.g. {[()]} , {a+[b*(c-d)/e]} , {{}([])} are balanced strings
+     {([)]} , {{[()]} , [[]({})]] are unbalanced strings 
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
