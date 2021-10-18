@@ -1,4 +1,8 @@
-## Getting Started
+## Problem2 solution: Finding longest path from the root to the leaf in a binary tree.
+
+Used recursive approach to fing the longest path in the Binary tree.
+
+##Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
